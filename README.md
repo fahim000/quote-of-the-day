@@ -20,3 +20,10 @@ To run this program locally, follow these steps:
    ```bash
    git clone https://github.com/fahim000/quote-of-the-day.git
    cd quote-of-the-day
+2. **Install Go:**:
+If you don’t already have Go installed, follow the instructions on the official Go website
+3. **Run The program**:
+To run the program, simply execute the following:
+ ```bash
+go run main.go
+
